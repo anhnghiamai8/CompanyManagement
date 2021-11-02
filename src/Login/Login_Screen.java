@@ -438,7 +438,7 @@ public class Login_Screen extends javax.swing.JFrame {
         changepass.setVisible(true);
         changepass.pack();
         changepass.setLocationRelativeTo(null);
-        this.hide();
+        this.setVisible(false);
         
     }//GEN-LAST:event_jLabel_ChangepasswordMouseClicked
 
